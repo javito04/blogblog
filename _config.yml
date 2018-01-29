@@ -1,7 +1,7 @@
 # Site settings
-title: Antonio Trento, theme Jeky New Age, the start Bootstrap themplate build for jekyll
+title: Bienvenido a mi tema de jekyll(javier romero lancha)
 email:
-description: A jekyll template for landing pages, portfolio and blogging
+description: este es mi primer tema
 
 baseurl: "/blogblog" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://jekynewage.github.io" # the base hostname & protocol for your site
