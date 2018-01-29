@@ -23,8 +23,8 @@ social:
     url: https://www.facebook.com/javi.romero.547?ref=bookmarks
   - title: instagram
     url: https://www.instagram.com/javiromero.04/
-  #- title: github
-  #  url: http://github.com/javito04
+  - title: github
+    url: http://github.com/javito04
 
 # Build settings
 markdown: kramdown
