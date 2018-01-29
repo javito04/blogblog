@@ -1,7 +1,7 @@
 # Site settings
-title: Bienvenido a mi tema de jekyll(javier romero lancha)
+title: Javier Romero Lancha presenta..!
 email:
-description: este es mi primer tema
+description: Bienvenido a mi tema de jekyll
 
 baseurl: "/blogblog" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://jekynewage.github.io" # the base hostname & protocol for your site
